@@ -12,3 +12,4 @@ turbo build
 cd apps/web
 pnpm dev
 ```
+
